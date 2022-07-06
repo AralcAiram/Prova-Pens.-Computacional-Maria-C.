@@ -1,2 +1,6 @@
 # Prova-Pens.-Computacional-Maria-C.
-Prova De Pensamento Computacional Do 1A Da Aluna Maria Clara De Deus Do Colégio CMMR
+Prova De Pensamento Computacional.
+Série: 1A;
+Aluna: Maria Clara De Deus.
+Colégio: CMMR;
+Tema: Site De Avocacia.
